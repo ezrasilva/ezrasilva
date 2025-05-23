@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a developer with a passion for technology, code and creative solutions. In my spare time, I like to explore new tools and learn programming languages. I'm currently studying quantum computing, but I'm fascinated by other areas, especially AI<br>
+I'm a developer with a passion for technology, code and creative solutions. In my spare time, I like to explore new tools and learn programming languages. I'm currently studying LLMs and Prompt Engineering, but I also like quantum computing.<br>
 
 
 ## 🌐 Socials:
