@@ -45,19 +45,11 @@ alt="Linguagens mais utilizadas"
 
 ## Repositórios em destaque
 
-<a href="https://github.com/ezrasilva/ezrasilva">
+<a href="https://github.com/ezrasilva/Wqnets-Orquestracao-Chaves-Hibridas-IPsec">
   <img
     width="48%"
-    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ezrasilva&repo=ezrasilva&theme=transparent&hide_border=true"
-    alt="Repositório principal"
-  />
-</a>
-
-<a href="https://github.com/ezrasilva">
-  <img
-    src="https://img.shields.io/badge/GitHub-ezrasilva-181717?logo=github&logoColor=white"
-    height="35"
-    alt="Perfil do GitHub"
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ezrasilva&repo=Wqnets-Orquestracao-Chaves-Hibridas-IPsec&theme=transparent&hide_border=true"
+    alt="Repositório em destaque"
   />
 </a>
 
@@ -108,15 +100,15 @@ alt="Linguagens mais utilizadas"
 
 ## Fora do laboratório
 
-<a href="https://instagram.com/SEU_INSTAGRAM">
+<a href="https://www.instagram.com/ezrasilvaa/">
   <img
-    src="https://img.shields.io/badge/Instagram-@SEU_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    src="https://img.shields.io/badge/Instagram-@ezrasilvaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     height="35"
     alt="Instagram"
   />
 </a>
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/ezrasilva20/">
   <img
     src="https://img.shields.io/badge/LinkedIn-Ezra_Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     height="35"
@@ -124,9 +116,9 @@ alt="Linguagens mais utilizadas"
   />
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:esdraspd22@gmail.com">
   <img
-    src="https://img.shields.io/badge/E--mail-Fale_comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/E--mail-esdraspd22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
     height="35"
     alt="E-mail"
   />
