@@ -1,18 +1,164 @@
-# 💫 About Me:
-I'm a developer with a passion for technology, code and creative solutions. In my spare time, I like to explore new tools and learn programming languages. I'm currently studying LLMs and Prompt Engineering, but I also like quantum computing.<br>
+<div align="center">
 
+# Oi, eu sou o Ezra! 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/esd.rassilva) 
+### Entre qubits, criptografia e sinais de rádio.
 
-# 💻 Tech Stack:
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ezrasilva&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ezrasilva&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezrasilva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  Estudando e construindo coisas na interseção entre
+  <strong>computação quântica</strong>,
+  <strong>comunicação quântica</strong>,
+  <strong>cibersegurança</strong> e
+  <strong>telecomunicações</strong>.
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=ezrasilva&icon=0&color=0)](https://visitcount.itsvg.in)
+<p>
+  <code>QKD</code> •
+  <code>PQC</code> •
+  <code>Open RAN</code> •
+  <code>Quantum Networks</code>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+height="180em"
+src="https://github-readme-stats-fast.vercel.app/api?username=ezrasilva&show_icons=true&theme=transparent&hide_border=true&locale=pt-br"
+alt="Estatísticas do GitHub"
+/>
+
+<img
+height="180em"
+src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ezrasilva&hide_progress=true&theme=transparent&hide_border=true&locale=pt-br"
+alt="Linguagens mais utilizadas"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## Principais repositórios
+
+<a href="https://github.com/ezrasilva/REPOSITORIO_QKD">
+  <img
+    width="48%"
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ezrasilva&repo=REPOSITORIO_QKD&theme=transparent&hide_border=true"
+    alt="Projeto sobre QKD"
+  />
+</a>
+
+<a href="https://github.com/ezrasilva/REPOSITORIO_PQC">
+  <img
+    width="48%"
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ezrasilva&repo=REPOSITORIO_PQC&theme=transparent&hide_border=true"
+    alt="Projeto sobre PQC"
+  />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## Explorando atualmente
+
+<img src="https://img.shields.io/badge/QKD-Quantum_Key_Distribution-6C63FF?style=for-the-badge" alt="QKD">
+<img src="https://img.shields.io/badge/PQC-Post--Quantum_Cryptography-111111?style=for-the-badge" alt="PQC">
+
+<br>
+
+<img src="https://img.shields.io/badge/Open_RAN-Open_Networks-00A86B?style=for-the-badge" alt="Open RAN">
+<img src="https://img.shields.io/badge/Quantum-Computing-7952B3?style=for-the-badge" alt="Quantum Computing">
+
+</div>
+
+<br>
+
+<div align="center">
+
+## Tecnologias e ferramentas
+
+<a href="https://github.com/ezrasilva?tab=repositories&q=&type=&language=python">
+  <img src="https://skillicons.dev/icons?i=py" height="42" alt="Python">
+</a>
+
+<a href="https://github.com/ezrasilva?tab=repositories&q=&type=&language=jupyter+notebook">
+  <img src="https://skillicons.dev/icons?i=jupyter" height="42" alt="Jupyter Notebook">
+</a>
+
+<img src="https://skillicons.dev/icons?i=linux" height="42" alt="Linux">
+<img src="https://skillicons.dev/icons?i=bash" height="42" alt="Bash">
+<img src="https://skillicons.dev/icons?i=git" height="42" alt="Git">
+<img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub">
+<img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker">
+<img src="https://skillicons.dev/icons?i=vscode" height="42" alt="Visual Studio Code">
+
+</div>
+
+<br>
+
+<div align="center">
+
+## Fora do laboratório
+
+<a href="https://instagram.com/SEU_INSTAGRAM">
+  <img
+    src="https://img.shields.io/badge/Instagram-@SEU_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    height="35"
+    alt="Instagram"
+  />
+</a>
+
+<a href="SEU_LINKEDIN">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Ezra_Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    height="35"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:SEU_EMAIL">
+  <img
+    src="https://img.shields.io/badge/E--mail-Fale_comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    height="35"
+    alt="E-mail"
+  />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ezrasilva/ezrasilva/output/pacman-contribution-graph-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ezrasilva/ezrasilva/output/pacman-contribution-graph.svg"
+  >
+  <img
+    alt="Pac-Man percorrendo o gráfico de contribuições"
+    src="https://raw.githubusercontent.com/ezrasilva/ezrasilva/output/pacman-contribution-graph.svg"
+  >
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>Construindo o futuro, um experimento de cada vez. ⚛️</sub>
+
+</div>
