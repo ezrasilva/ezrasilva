@@ -43,21 +43,21 @@ alt="Linguagens mais utilizadas"
 
 <div align="center">
 
-## Principais repositórios
+## Repositórios em destaque
 
-<a href="https://github.com/ezrasilva/REPOSITORIO_QKD">
+<a href="https://github.com/ezrasilva/ezrasilva">
   <img
     width="48%"
-    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ezrasilva&repo=REPOSITORIO_QKD&theme=transparent&hide_border=true"
-    alt="Projeto sobre QKD"
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ezrasilva&repo=ezrasilva&theme=transparent&hide_border=true"
+    alt="Repositório principal"
   />
 </a>
 
-<a href="https://github.com/ezrasilva/REPOSITORIO_PQC">
+<a href="https://github.com/ezrasilva">
   <img
-    width="48%"
-    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ezrasilva&repo=REPOSITORIO_PQC&theme=transparent&hide_border=true"
-    alt="Projeto sobre PQC"
+    src="https://img.shields.io/badge/GitHub-ezrasilva-181717?logo=github&logoColor=white"
+    height="35"
+    alt="Perfil do GitHub"
   />
 </a>
 
@@ -141,15 +141,15 @@ alt="Linguagens mais utilizadas"
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ezrasilva/ezrasilva/output/pacman-contribution-graph-dark.svg"
+    srcset="https://raw.githubusercontent.com/ezrasilva/ezrasilva/gh-pages/pacman-contribution-graph-dark.svg"
   >
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ezrasilva/ezrasilva/output/pacman-contribution-graph.svg"
+    srcset="https://raw.githubusercontent.com/ezrasilva/ezrasilva/gh-pages/pacman-contribution-graph.svg"
   >
   <img
     alt="Pac-Man percorrendo o gráfico de contribuições"
-    src="https://raw.githubusercontent.com/ezrasilva/ezrasilva/output/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/ezrasilva/ezrasilva/gh-pages/pacman-contribution-graph.svg"
   >
 </picture>
 
