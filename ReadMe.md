@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oi, eu sou o Ezra! 👋
+# Oi, eu sou o Esdras! 👋
 
 ### Entre qubits, criptografia e sinais de rádio.
 
